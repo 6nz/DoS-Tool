@@ -42,4 +42,3 @@ def threadmaster():
         threading.Thread(target=main).start()
         
 threadmaster()
-#print(f"{Fore.YELLOW}Attacking is done!")
